@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England Scotland and Ireland the humble petition of Richard Tuttell, Barbican London.</title>
+            <author>Tuttell, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95394</idno>
+            <idno type="STC">Wing T3388</idno>
+            <idno type="STC">Thomason 669.f.19[10]</idno>
+            <idno type="STC">ESTC R212071</idno>
+            <idno type="EEBO-CITATION">99870723</idno>
+            <idno type="PROQUEST">99870723</idno>
+            <idno type="VID">163348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f19[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England Scotland and Ireland the humble petition of Richard Tuttell, Barbican London.</title>
+                  <author>Tuttell, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Protesting against his imprisonment by the Committee for Indemnity -- Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "September 1654";  "these papers came out all in ye parliament which began Sept ye 3rd 1654 being Sunday &amp; was disolved the 22. Jan next following".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163348:1" rendition="simple:additions"/>
+            <head>To the Parliament of the Common-Wealth of England Scotland and Jreland<lb/>The humble Petition of Richard Tuttell, Barbican London.</head>
+            <opener>Sheweth,</opener>
+            <p>THat about the yeare 1642 one Mr. <hi>John Clark</hi> made a contract with Part of the County of <hi>Kent</hi> to ſerve then in ſeverall Cattle for Proviſions for the
+Late Kings houſe and did ſerve them in more then he received money for by the ſum of 34 l. or thereabouts That about the yeare 1644 the ſaid <hi>Clark</hi>
+Died and made his wife Executris of his will and about 1646 the Petitioner intermaried with her And betweene 1651 and 1652. the Truſtees for ſale of
+the late Kings and Queenes Goods &amp;c. called the Petitioner to account and charged him with 238 l. 28. 8 d. which they pretended his predeceſſer had concealed
+and kept in his hands but the petitioner knowing nothing of it nor receiving any aſſets of the ſaid <hi>Clarks</hi> Eſtate with his wife deſired a ſmall time to put in his
+anſwer to their charge, which being ready the petitioner waited upon the ſaid Truſtees neare halfe a yeare with it but could not in any wiſe bee heard, Therfore
+not knowing what to do he retained a Counſeller thinking they would heare him and upon his motion they ordered them to attend about 9 or 10 of the
+clock the next day and then they ſhould be heard Counſell, and the petitioner attended them at the time aforeſaid but could not be admitted into them, till they
+were forced to preſſe in after 8 of the Clock at night, and aſſoone as the Counfell began to ſpeake in the bufines they asked him what he was what his name was
+and where he dwelt and then roſe up and told the Petitioner except that he would give them a 100 l. they would not here his cauſe and gave the like anſwer
+ſeverall times after to the Petitioner and his friends.</p>
+            <p>That ſhortly after the petitioner having occaſion to goe into the Country about his affaires the ſaid Truſtees ſent their officers with an order and entered his
+houſe and ſhut up his doors and told his wife they were come for 238 l. 2 s. 8 d. ſhe told them her husband was not at home but ſhe expected him that night, or
+the next morning and deſired them they would be ſatisfied till his returne but they replyed they came for ſo much money or elſe they would ſeice the goods in
+the houſe and ſell them and there upon cauſed many Trunks and Cheſts to be opened, where upon the petitioners wife ſent for two of her neighbors who when
+they came; the ſaid officers refuſed to let into the houſe one of them being a Comonconuſellman, ſent for a Conſtable but ſtill they denied them entrance at
+laſt being got in, they deſired them to be civill till the Petitioner came home and to forbeare any violence, and in caſe he did not give them ſatisfaction that
+night or the next morning they ſhould have as fair a Seiſvre as then they had, but they anſwered if ther were any thing too hot or too hevie in the Houſe they
+would leave it, then two other Gentile-men hearing of it came in and they likewiſe intreated them that they would be ſparing whilſt her husband came
+home and offered them ſecurity of 1000 L. that he ſhould give ſatisfaction but they replied they would not leave her a ragg to wind about her finger, And one
+Jackſon an informer who was with the ſaid officers Commanded two Brokerly fellows to praiſe the goods and not over value them for they were like to have
+them at the valuation they ſet upon them and vſed many threatning words and expreſſions to the petitionets wife in ſo much that ſhee took a very great feare
+and ſuddenly after died this being done they tooke afireforke and broke downe a place made up of double deale board and tooke out money and Plate to the
+value of 185 l. which would not ſatisfie them til they had ſeaſed more of the Petitioners goods and caryed them away.</p>
+            <p>That the Petitioner for Reparation in the premeſes made his adreſſes to the firſt <hi>Parliament</hi> who ordered him to apply himſelfe to the Committee appointed to
+examine the abuſes of ſeverall officers &amp;c. And they upon examinations and hearing of his cauſe by their order of the three &amp; twentith day of March, annexed to
+the original petition did declar that the ſaid monys were Leavied upon the petitioner contrary to Law &amp; Juſtice, and without warrant by the Acts of <hi>Parliament</hi>
+and did order the ſaid Truſtees to repay the ſame to the Petitioner, having then money remaining in their hands not charged to the States Acconut,
+That the ſaid Committy determining in the Diſolution of that <hi>Parliament,</hi> the ſaid truſtees took advantage there of and refuſed to obey the ſaid order and
+there upon your petitioner by advice of Councell brought an action at Law againſt the ſaid Truſtees and much money was ſpent therein and the ſuit being
+ready for hearing they appealed to the Commite for Jndemnity, which Committe thought by their Order annexed to the original Petition they do acknowledge
+the Petitioner was not liable to the paiment of the ſaid 238 L. 2 S. 8 D. as a debt to the Common-Wealth yet they doe there by order the Petitioner to
+give them releaſes of the ſaid Action and upon the Petitioner refu ſall have committed him to the Cuſtody of a Sargant at Armes where he hath laine at a very
+great charge two Months and upwards by meanes whereof he is not onely like to bee jnforced to the Loſſe of his Juſt debt but to bee uterly ruened in his
+Eſtate.</p>
+            <p>That the Petitioner for his good affections to the State hath ſuffered many loſſes, had a great part of his eſtate Plundred from him by the Kings forces in
+<hi>Northamton-ſheire</hi> and never had any ſatisfaction has lent money, plate and horſes, And hath loſt two Sonnes in the Stats ſeruice to purchaſe the
+Benifite of the Lawes and freedome from oppreſſion, the Birthright of true <hi>Eugliſhmen.</hi>
+            </p>
+            <p>The Petitioner doth humbly pray that this Honorable houſe will be pleaſed to take his
+ſad and moſt oppreſſed condition into ſerious conſideration, And that for preventing
+of the Jii Conſiquence which may befall his aged Body by reſtraint and the Preſant
+Jnſoportable charge which lies upon him may be releſed out of priſſion and
+that according to the fundamentall and known Lawes of this Nation he may have
+his legall remedy againſt thoſe many injuries and wrongs he now ſuffereth by the
+Dealing aforeſaid or that he may bee otherwiſe Relieved as to your Wiſdome ſhall
+ſeeme moſt meet and agreeable to Juſtice and equity.</p>
+            <closer>And he ſhall ever Pray, &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
